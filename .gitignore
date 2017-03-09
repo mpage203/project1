@@ -2,7 +2,7 @@
 a.out
 ids.txt
 addresses.txt
-tes.txt
+private/tes.txt
 # ignore some file types in the current folder and subfolders
 *.java
 *.o
