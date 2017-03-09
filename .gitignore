@@ -1,0 +1,10 @@
+# ignore a particular file
+a.out
+ids.txt
+addresses.txt
+# ignore some file types in the current folder and subfolders
+*.java
+*.o
+
+# ignore an entire directory
+foo/
